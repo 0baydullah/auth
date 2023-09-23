@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653147274034",
+    "project_id": "auth-9a801",
+    "storage_bucket": "auth-9a801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653147274034:android:5bbe90b570608e27f9f52b",
+        "android_client_info": {
+          "package_name": "com.obaydullah.auth.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67sVRevbIaIXe2teLHQ2WIDTlx79llAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
